@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 from telegram.ext import Updater, CommandHandler
 import telegram
-
+dehneymnrjym ryjmryjm 5u mt
 def get_price(update, context):
     if len(context.args) == 0:
         update.message.reply_text("Пожалуйста, укажите артикул набора LEGO.")
